@@ -1,0 +1,46 @@
+.mainbox {
+  width: 84vw;
+  height: 100vw;
+  top: 10%;
+  position: fixed;
+  right: 2%;
+}
+.header {
+  height: 7rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+}
+.hs {
+  width: 20rem;
+}
+
+.dropdn {
+  width: 10rem;
+  color: white;
+  background-color: darkgreen;
+  border-radius: 3px;
+}
+.form {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.dropdns {
+  width: 20rem;
+  margin-left: 2.5rem;
+  text-align: left;
+  border-radius: 3px;
+}
+.lists {
+  padding: 3rem;
+}
+
+.modelinput {
+  width: 20rem;
+  margin: 10px;
+}
+.modals {
+  box-shadow: 1rem;
+}
